@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CourseHistory
+comment1.params=
+comment1.target=CourseHistory()
+comment2.params=
+comment2.target=void\ displayCourseHistory()
+comment3.params=
+comment3.target=void\ displaySummaryReport()
+comment4.params=
+comment4.target=void\ distAreaReport()
+comment5.params=
+comment5.target=void\ compReport()
+comment6.params=
+comment6.target=void\ fullReport()
+comment7.params=
+comment7.target=void\ sortListGPA()
+numComments=8
